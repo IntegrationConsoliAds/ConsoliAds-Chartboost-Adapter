@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Chartboost-Adapter'
-  s.version          = '8.4.2-1.0'
+  s.version          = '8.4.2-1.1'
   s.summary          = 'This pod is used to get chartboost adapter for chartboostAds serving after integrating Consoliads-Mediation pod.'
 
 # This description is used to generate tags and improve search results.
