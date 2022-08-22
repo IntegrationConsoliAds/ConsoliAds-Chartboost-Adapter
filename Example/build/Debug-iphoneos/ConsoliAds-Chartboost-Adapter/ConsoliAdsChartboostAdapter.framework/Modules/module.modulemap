@@ -1,0 +1,6 @@
+framework module ConsoliAdsChartboostAdapter {
+  umbrella header "ConsoliAdsChartboostAdapter.h"
+
+  export *
+  module * { export * }
+}

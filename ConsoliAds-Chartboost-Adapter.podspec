@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Chartboost-Adapter'
-  s.version          = '8.4.2-1.1'
+  s.version          = '8.4.2-1.2'
   s.summary          = 'This pod is used to get chartboost adapter for chartboostAds serving after integrating Consoliads-Mediation pod.'
 
 # This description is used to generate tags and improve search results.
@@ -28,11 +28,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-s.vendored_frameworks = 'ConsoliAds-Chartboost-Adapter/ConsoliAdsChartboostAdapter.framework'
+s.vendored_frameworks = 'ConsoliAds-Chartboost-Adapter/ConsoliAdsChartboostAdapter.xcframework'
 s.xcconfig = {"OTHER_LDFLAGS" => "-ObjC"}
 
-s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+s.user_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES', "MACH_O_TYPE" => "staticlib"}
+s.pod_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES', "MACH_O_TYPE" => "staticlib"}
 s.static_framework = true
  
 end
