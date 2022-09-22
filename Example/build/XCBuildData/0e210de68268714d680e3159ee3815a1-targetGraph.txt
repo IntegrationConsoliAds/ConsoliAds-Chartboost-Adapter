@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+FBSnapshotTestCase in Pods, no dependencies
+ConsoliAds-Chartboost-Adapter in Pods, no dependencies
+Pods-ConsoliAds-Chartboost-Adapter_Example in Pods, depends on:
+ConsoliAds-Chartboost-Adapter in Pods (explicit)
+Pods-ConsoliAds-Chartboost-Adapter_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-ConsoliAds-Chartboost-Adapter_Example in Pods (explicit)
