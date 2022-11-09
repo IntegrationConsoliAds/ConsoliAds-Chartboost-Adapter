@@ -1,7 +1,7 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "648bca7b6b953a7a617f2f9c3ea07f4307af9ee6fb388e468d3727b7e62bdaff"
-build_start_time: [1663829205, 329538822]
-build_end_time: [1663829219, 805783033]
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "ec3530f46907648596e12b6ef4de08b33eadb4195cfc4945c4ce202d30c1ab89"
+build_start_time: [1668000410, 653774976]
+build_end_time: [1668000422, 703343868]
 inputs:
   ? "/Volumes/DataDrive/WorkSpace/CocoaPod Git Repos/ConsoliAds-Chartboost-Adapter/Example/Pods/FBSnapshotTestCase/FBSnapshotTestCase/SwiftSupport.swift"
   : [1660806801, 426262378]

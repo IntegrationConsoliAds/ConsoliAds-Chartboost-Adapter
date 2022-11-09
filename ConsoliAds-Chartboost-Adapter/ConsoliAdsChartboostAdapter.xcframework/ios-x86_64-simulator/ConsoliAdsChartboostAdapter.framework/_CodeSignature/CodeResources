@@ -4,21 +4,40 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>CHANGELOG.md</key>
+		<data>
+		Oh55KRMrplJvufcFU8J7YtRz7bE=
+		</data>
 		<key>Headers/ConsoliAdsChartboostAdapter.h</key>
 		<data>
 		R5ATDHyu+Urors5DdGM+UwBsUN8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Qrrn6wTtSTFmkS62jK3Bbe/gEgg=
+		76Q1Zet0va1YKqGCvd8i8lcw5H8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		eCNXqS8YUmp0jpatdCNwfHHr6qE=
 		</data>
+		<key>README.md</key>
+		<data>
+		4NCgVFeJjPGb2ChlF1Ia7HCQbR0=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>CHANGELOG.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oh55KRMrplJvufcFU8J7YtRz7bE=
+			</data>
+			<key>hash2</key>
+			<data>
+			LtRwiZtSUD7UnAw7FGXZmxg40eja27q1cHpkcbeYa94=
+			</data>
+		</dict>
 		<key>Headers/ConsoliAdsChartboostAdapter.h</key>
 		<dict>
 			<key>hash</key>
@@ -39,6 +58,17 @@
 			<key>hash2</key>
 			<data>
 			Jf9u46G5NB2AV3ZHX6PyRMVtlHAY7kC736lLOhVvID0=
+			</data>
+		</dict>
+		<key>README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4NCgVFeJjPGb2ChlF1Ia7HCQbR0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1pyJ8/gNFFb4PTWwAE/SMs7iYWlZd2WY0pUnSkoykBo=
 			</data>
 		</dict>
 	</dict>

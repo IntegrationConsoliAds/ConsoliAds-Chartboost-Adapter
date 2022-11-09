@@ -6,5 +6,5 @@ framework module FBSnapshotTestCase {
 }
 
 module FBSnapshotTestCase.__Swift {
-    exclude header "FBSnapshotTestCase-Swift.h"
+  exclude header "FBSnapshotTestCase-Swift.h"
 }
